@@ -21,6 +21,8 @@ Lew Lepton
 
 ---
 
+## problem
+
 the main problem i can say, without a shadow of a doubt, is Mira support, which is what i really wanted.<br>
 i dont want to always click things in, plus didnt want to go the OSC route, *yet*. because that would entail much more work, & i wanted a direct input, get it made so i can move on, & Mira does fit that bill, for *some* of the part<br>
 it can be slow at times. Mira **still** doesnt have support for many useful objects that would make creating patches better [& faster] for interaction. so the patching itself is kind of a mess because of that. **bpatcher** is still [for over 8 years] not supported. so this is why things are kind of all over the place in terms of the patching

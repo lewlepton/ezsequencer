@@ -5,7 +5,9 @@
 hectic piece of software that links Max 8, to Logic Pro X, to EZDrummer2.<br>
 you can also use the [annoyingly hardly updated] Mira application on iPad to input sequences, though happily its not needed to enjoy, hooray 🤘
 
-it was created [over 5 days while waiting for a replacement guitar part] simply so i could use a better sequencer for inputing drum sequences that can talk to EZDrummer2, especially so i could use an iPad. so i dont have to click things in using a mouse
+you can view a full demo of it in action [using Mira] [HERE](https://pixelfed.social/p/lewlepton/263143750186962944) - it was super fun, i cant lie. the videos desciption also goes into great detail about things as well
+
+created [over 5 days while waiting for a replacement guitar part] simply so i could use a better sequencer for inputing drum sequences that can talk to EZDrummer2, especially so i could use an iPad. so i dont have to click things in using a mouse
 
 it accesses the entire sample set of an EZDrummer2 kit. they are hard wired in as well, so some kits [though not many] may not have the full hits in
 
@@ -14,8 +16,6 @@ best of all, this also has control for velocity for each hit, which is how you p
 it even has polyrythmic capabilites as well. so any drum channel can have its own amount of steps, so you can have *really* interesting things going on
 
 it links to Logic via rewire, & is also sync to the tempo. so if you change the tempo in Logic, it will change in EZSequencer
-
-you can view a full demo of it in action [using Mira] [HERE](https://pixelfed.social/p/lewlepton/263143750186962944) - it was super fun, i cant lie. the videos desciption also goes into great detail about things as well. but i will still say about the *problems* below
 
 but all in all it works. it is fun & hope you have fun with it too
 

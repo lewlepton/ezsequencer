@@ -19,7 +19,7 @@ it links to Logic via rewire, & is also sync to the tempo. so if you change the 
 
 but all in all it works. it is fun & hope you have fun with it too
 
-Lew Lepton
+Loren Lepton
 
 ---
 
